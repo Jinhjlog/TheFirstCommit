@@ -1,2 +1,2 @@
-email :
-gitID :
+email : dndn2615@gmail.com	
+gitID : Jinhjlog
